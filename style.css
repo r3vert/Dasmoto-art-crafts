@@ -1,0 +1,37 @@
+body {
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: khaki;
+  font-weight: bold;
+  background-image: url(pictures/pattern.webp);
+}
+
+.sepperatorBar {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+
+#aquaBar {
+  background-color: mediumspringgreen;
+}
+
+h3 {
+  font-family: Helvetica;
+}
+
+span {
+  color: blue;
+  font-weight: bold;
+}
+
+#coralBar {
+  background-color: lightcoral;
+}
+
+#skyBar {
+  background-color: skyblue;
+}
